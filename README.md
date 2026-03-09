@@ -46,7 +46,7 @@ cd banana-optimizer
 pip install -r requirements.txt
 
 # 3. Run
-streamlit run app.py
+streamlit run GoBananas.py
 ```
 
 The dashboard opens at **http://localhost:8501**.
