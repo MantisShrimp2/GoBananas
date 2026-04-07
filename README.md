@@ -1,5 +1,5 @@
 # 🍌 Banana Selling Optimizer
-Have you ever wondered How supermarkets determine your spending habits? I had this thought while walking to the gym, on my way I picked up a banana from a supermarket and noticed I could have paid for them by the kilo or by a stack of 5. It made me curious about when supermarket choose the price of Bananas. So I made **GoBananas**
+Have you ever wondered how supermarkets determine your spending habits? I had this thought while walking to the gym, on my way, I picked up a banana from a supermarket and noticed I could have paid for them by the kilo or by a stack of 5. It made me curious about when supermarkets choose the price of Bananas. So I made **GoBananas**
 > An interactive dashboard to determine whether you should sell bananas **by the piece** or **by the kilo** — and *why*.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-yellow?logo=python)
